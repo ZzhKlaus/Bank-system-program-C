@@ -1,6 +1,8 @@
 # Bank-system-program-C
 A pure C program of bank system finished at 26 December 2016
 
+The main code part was written all by me, the builder of this repository, while the description part which was recorded in word file is the work of the whole group.
+
 Below is a problem statement.
 
 Design a bank system program. Customers, bank clerks and managers are able to set up an account and log in with account information. Moreover, they have following functions.
